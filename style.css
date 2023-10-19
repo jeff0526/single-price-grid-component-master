@@ -43,8 +43,8 @@ body{
 
     padding: 2.5rem;
     line-height: 1.75rem;
-    gap: 1.5rem;/* 
-    background-color: white;  */
+    gap: 1.5rem;
+    background-color: white; 
 }
 .join_container h1{
     font-size: 1.47rem;
