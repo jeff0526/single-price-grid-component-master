@@ -24,6 +24,7 @@ body{
     height: 100vh;
     display: grid;
     place-items: center;
+    background-color: var(--clr-LightGray);
 }
 .com_container{
     display:grid;
@@ -31,7 +32,7 @@ body{
     
     border-radius: .5rem;
     overflow: hidden;
-    box-shadow: 0 0 15px hsl(218, 17%, 91%);
+    box-shadow: 0 0 15px hsl(210, 23%, 86%);
 
     max-width: 44vw;
 }
@@ -90,6 +91,7 @@ body{
     height: 3rem;
     margin-top: 1rem;
     
+    font-size: 1rem;
     background-color: var(--clr-BrightYellow);
     box-shadow: 0 4px 10px hsl(218, 22%, 67%, .5);
     color: white;
